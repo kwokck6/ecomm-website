@@ -1,0 +1,119 @@
+span.required-mark {
+    color: red;
+}
+
+/* Category table */
+div#cat_edit_del > div {
+    display: table-row;
+}
+
+div.cid {
+    padding: 0.25em;
+}
+
+div.cat-records div.cid {
+    text-align: center;
+    padding: 0.25em;
+}
+
+div.cname {
+    padding: 0.25em;
+}
+
+div.cedit {
+    width: 2.5%;
+    padding: 0.25em;
+}
+
+div.cedit a {
+    text-align: center;
+    padding: 0.25em;
+}
+
+div.cdelete {
+    padding: 0.25em;
+}
+
+div.cat-records div.cdelete {
+    text-align: right;
+    padding: 0.25em;
+}
+
+div#cat-headings {
+    font-weight: bold;
+    text-align: center;
+    display: table-row;
+}
+
+div#cat-headings div {
+    display: table-cell;
+}
+
+div.cat-records div {
+    display: table-cell;
+}
+
+/* Product table */
+div#prod_edit_del > div {
+    display: table-row;
+}
+
+div.pcid {
+    padding: 0.25em;
+}
+
+div.prod-records div.pcid {
+    text-align: center;
+    padding: 0.25em;
+}
+
+div.pname {
+    padding: 0.25em;
+}
+
+div.price {
+    padding: 0.25em;
+}
+
+div.desc {
+    padding: 0.25em;
+}
+
+div.inv {
+    text-align: center;
+    padding: 0.25em;
+}
+
+div.pedit {
+    width: 2.5%;
+    padding: 0.25em;
+}
+
+div.pedit a {
+    text-align: center;
+    padding: 0.25em;
+}
+
+div.pdelete {
+    text-align: center;
+    padding: 0.25em;
+}
+
+div.prod-records div.pdelete {
+    text-align: right;
+    padding: 0.25em;
+}
+
+div#prod-headings {
+    font-weight: bold;
+    text-align: center;
+    display: table-row;
+}
+
+div#prod-headings div {
+    display: table-cell;
+}
+
+div.prod-records div {
+    display: table-cell;
+}

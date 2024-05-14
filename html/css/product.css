@@ -1,0 +1,9 @@
+span.warn-remaining {
+    color: red;
+    font-weight: bold;
+}
+
+div.product-image img {
+    max-height: 500px;
+    max-width: 500px;
+}
